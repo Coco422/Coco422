@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ray
-### A professional code breaker from China
-
+### 专业bug制造者
+- 在努力变的更好
 - 🌱 I’m currently learning **everything**
 - 📝 I regularly write articles on [blog.anluoying.com](blog.anluoying.com)
 - 📫 How to reach me **anluoying@linux.do**

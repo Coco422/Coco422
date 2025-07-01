@@ -5,8 +5,6 @@
 - 📝 I regularly write articles on [blog.anluoying.com](https://blog.anluoying.com)
 - 📫 How to reach me **anluoying@linux.do**
 
-### Connect with me:
-
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)

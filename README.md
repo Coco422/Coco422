@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ray
-### 爱做白日梦的码农
-- Try to be better
+
+## Try to be better
 - 🌱 I’m currently learning **everything**
 - 📝 I regularly write articles on [blog.anluoying.com](https://blog.anluoying.com)
 - 📫 How to reach me **anluoying@linux.do**

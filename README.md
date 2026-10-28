@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ray
 
 ## 💫 About Me:
-## Try to be better<br>- 🌱 I’m currently learning **rust** to dev a rust agent<br>- 📝 I regularly write articles on [blog.anluoying.com](https://blog.anluoying.com)<br>- 📫 **ray281868@gmail.com** or **anluoying@linux.do**<br><br>
+## Try to be better<br>- 🌱 Learning everything I can — because AI is getting scary good.😅 <br>- 📝 I regularly write articles on [blog.anluoying.com](https://blog.anluoying.com)<br>- 📫 **ray281868@gmail.com** or **anluoying@linux.do**<br><br>
 
 
 ## 💻 Tech Stack:
